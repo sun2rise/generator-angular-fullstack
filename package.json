@@ -17,7 +17,7 @@
   ],
   "homepage": "https://github.com/sun2rise/generator-angular-fullstack",
   "bugs": "https://github.com/sun2rise/generator-angular-fullstack/issues",
-  "author": {"Alessandro Annini", "Tyler Henkel"},
+  "author": {"Alessandro Annini"},
   "repository": {
     "type": "git",
     "url": "git://github.com/sun2rise/generator-angular-fullstack.git"
